@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+} 
+
+.tamañocarta{
+  width: 12rem;
+  margin-right: 15px;
+}
+
+img{
+  height: 150px;
+}
