@@ -1,12 +1,12 @@
 # Proyecto de Giphy
 
-Este es un proyecto de ejemplo que utiliza HTML, CSS y JavaScript. Puedes ver la versión desplegada en Vercel a través del siguiente enlace:
+Este es un proyecto de ejemplo que utiliza HTML, CSS, API Rest, Bootstrap y JavaScript. Puedes ver la versión desplegada en Vercel a través del siguiente enlace:
 
 https://proyecto-giphy-puce.vercel.app/
 
 ## Descripción
 
-Este proyecto es una demostración de cómo se pueden combinar HTML, CSS y JavaScript para crear una pagina que permita buscar una gran cantidad de gifs, usando de base la API de Giphy.
+Este proyecto es una demostración de cómo se pueden combinar HTML, CSS, API Rest, Bootstrap y JavaScript para crear una pagina que permita buscar una gran cantidad de gifs, usando de base la API de Giphy.
 
 ## Uso
 
